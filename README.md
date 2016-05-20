@@ -18,9 +18,9 @@ cd nschatAPP
 hz serve --dev  --allow-unauthenticated true --auto-create-collection true --auto-create-index true
 ```
 
-### Angular integration
+### Client Setup
 
-`git clone -b angular https://github.com/triniwiz/nativescript-ng2-horizon-seed`
+`git clone https://github.com/triniwiz/nativescript-ng2-horizon-seed`
 
 ##Start Android version
 ```
